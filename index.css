@@ -309,9 +309,9 @@
   /* Linear Gradiant */
   .about .about-content .right .text span {
     /* color: #1e3551; */
-    background: linear-gradient(135deg, #041d3d, #fff, crimson);
+    background: linear-gradient(135deg, #2c64ae, #fff, crimson);
     
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: Solid;
   }
   
   .about .about-content .right p {
